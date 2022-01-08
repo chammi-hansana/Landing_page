@@ -1,2 +1,2 @@
-# Landing_page
-Loading output screenshot
+# Landing output screenshot
+
